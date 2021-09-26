@@ -10,7 +10,7 @@ Constraints:
 */
 
 
-// This is a basic approach where TLE can be an issue. O(n^2)
+// This is a basic approach where TLE can be an issue. O(T*N) = 10 ^10 > 10^7
 /* #include <bits/stdc++.h>
 using namespace std;
 
@@ -39,7 +39,7 @@ int main() {
 */
 
 
-//This is a better approach. O(n)
+//This is a better approach. O(N) + O(T) = 2 * 10^5
 #include <bits/stdc++.h>
 using namespace std;
 
