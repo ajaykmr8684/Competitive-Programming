@@ -12,6 +12,16 @@ Given a strings and a range of l -> r. Between l and r, find whether the string 
  second contains n and q where n is the size of the string and q are the no. of queries.
  Next line contains the string.
  Next lines contains l and r respectively.
+ 
+ 1
+5 5
+abcec
+1 2
+2 5
+3 5
+1 5 
+1 4 
+
 
 
 
